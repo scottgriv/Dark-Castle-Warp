@@ -1,9 +1,9 @@
 name: Dark Castle # Name for the theme
 accent: '#FF8040' # Accent color for UI elements
 background: '#000000' # Terminal background color
-details: darker # Whether the theme is lighter or darker.
-foreground: '#FFD580' # The foreground color.
-terminal_colors: # Ansi escape colors.
+details: darker # Whether the theme is lighter or darker
+foreground: '#FFD580' # The foreground color
+terminal_colors: # Ansi escape colors
   bright:
     black: '#292929'
     blue: '#4164FF'

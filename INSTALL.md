@@ -17,7 +17,7 @@ Download using the [GitHub .zip download](https://github.com/scottgriv/Dark-Cast
 1. Start the Warp terminal app;
 2. Create the custom themes directory by running the following command: `mkdir -p ~/.warp/themes/`;
 3. Hover over `~/.warp/themes/` and do a `⌘ + Click` to open up the newly created folder;
-4. Drop the [Dark Castle.yml](./Dark%20Castle.yml) file into the folder;
+4. Drop the [dark_castle.yml](./dark_castle.yml) file into the folder;
 5. Open the Command Palette using `⌘ + P` or equivalent;
 6. Select "Open Theme Picker" or search for it if you don't see it;
 7. Select `Dark Castle`;
